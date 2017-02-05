@@ -6,7 +6,7 @@ layout: default
 
  - Pave the cow paths
  - Truth as a cable, not a Chain (Peirce) - http://a.co/b81camA
- - Look for the Helpers (Fred Rodgers mom’s way of looking for hope in bad situations.)
+ - Look for the Helpers[^helpers]
  - Slide over this world a bit lightly and on the surface - [*via* Montaigne](http://amzn.to/1XDifrI)
  - Break things down
  - Make a system
@@ -30,6 +30,8 @@ layout: default
  - in general, inquire for and favor utility and general improvement, not accuracy of representation
  - https://en.wikipedia.org/wiki/Veil_of_ignorance
 
-[^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - Immanuel Kant, Grounding for the Metaphysics of Morals[4]
+[^helpers]: Fred Rodgers’ mom’s way of looking for hope in bad situations.
 
-[^woody]: "The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - Woody Guthrie, Pastures of Plenty (pg. 247)"
+[^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - Immanuel Kant, Grounding for the Metaphysics of Morals
+
+[^woody]: "The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - Woody Guthrie, Pastures of Plenty (pg. 247)
