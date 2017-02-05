@@ -13,7 +13,7 @@ layout: default
  - Make a system
  - Simple but not Simon
  - Draw to Think
- - Keep the Hope Machine Running[^woody]
+ - Keep the Hope Machine Running - via Woody Guthrie[^woody]
  - Be comic, not tragic
  - Modular not monolithic
  - Try to avoid stepping on snails and anthills
