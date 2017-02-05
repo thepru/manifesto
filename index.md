@@ -5,16 +5,16 @@ layout: default
 ## Guidelines
 
  - Pave the cow paths
- - Truth as a cable, not a Chain - [*via* Charles Sanders Peirce](http://a.co/b81camA)
- - Look for the Helpers - *via* Mister Rodgers[^helpers]
- - Slide over this world a bit lightly and on the surface - [*via* Montaigne](http://amzn.to/1XDifrI)
- - Don’t treat people as means to an end, but rather treat them as ends unto themselves - *via* Immanuel Kant[^kant]
+ - Truth as a cable, not a Chain - [via Charles Sanders Peirce](http://a.co/b81camA)
+ - Look for the Helpers - via Mister Rodgers[^helpers]
+ - Slide over this world a bit lightly and on the surface - [via Montaigne](http://amzn.to/1XDifrI)
+ - Don’t treat people as means to an end, but rather treat them as ends unto themselves - via Immanuel Kant[^kant]
  - Break things down
  - Make a system
  - Simple but not Simon
  - Draw to Think
  - Keep the Hope Machine Running[^woody]
- - Be Comic not tragic
+ - Be comic not tragic
  - Modular not monolithic
  - Try to avoid stepping on snails or anthills
  - Love but have intent
