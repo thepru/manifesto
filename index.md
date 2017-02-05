@@ -25,7 +25,7 @@ layout: default
 ### Ideas, Theories, a Pile
 
  - Be as axiomatic as possible, but keep nuance from dying out
- - Be conservative in what you do, be liberal in what you accept from others [or Postel's Law via John Postel](https://en.wikipedia.org/wiki/Robustness_principle)
+ - Be conservative in what you do, be liberal in what you accept from others [or Postel's Law via Jon Postel](https://en.wikipedia.org/wiki/Robustness_principle)
  - [Syncretism](https://en.m.wikipedia.org/wiki/Syncretism)
  - in general, inquire for and favor utility and general improvement, not accuracy of representation
  - https://en.wikipedia.org/wiki/Veil_of_ignorance
