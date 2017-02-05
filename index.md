@@ -16,7 +16,7 @@ layout: default
  - Keep the Hope Machine Running[^woody]
  - Be comic, not tragic
  - Modular not monolithic
- - Try to avoid stepping on snails or anthills
+ - Try to avoid stepping on snails and anthills
  - Love but have intent
  - You only have control over your reactions
  - Be vulnerable: ask questions. Set aside pride.
