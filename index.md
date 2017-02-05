@@ -32,7 +32,7 @@ layout: default
 
 ***
 
-[^helpers]: "When I was a boy and I would see scary things in the news, my mother would say to me, 'Look for the helpers. You will always find people who are helping." - *Mister Rogers*
+[^helpers]: "When I was a boy and I would see scary things in the news, my mother would say to me: Look for the helpers. You will always find people who are helping." - *Mister Rogers*
 
 [^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - *Immanuel Kant, Grounding for the Metaphysics of Morals*
 
