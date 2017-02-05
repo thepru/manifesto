@@ -5,16 +5,16 @@ layout: default
 ## Helpful Guidelines
 
  - Draw to Think
- - Look for the Helpers - via Mister Rodgers[^helpers]
- - Mantra: Keep the Hope Machine Running[^woody]
+ - Look for the Helpers[^helpers]
+ - Keep the Hope Machine Running[^woody]
  - Modular, not monolithic
- - Don’t treat people as means to an end, but rather treat them as ends unto themselves - via Immanuel Kant[^kant]
- - Truth should be seen more as a cable, not a chain (or a super-structure build upon an absolute foundation) - [via Charles Sanders Peirce](http://a.co/b81camA)
- - Slide over this world a bit lightly and on the surface - [via Montaigne](http://amzn.to/1XDifrI)
+ - Don’t treat people as means to an end, but rather treat them as ends unto themselves[^kant]
+ - Truth should be seen more as a cable, not a chain[^pierce] (or a super-structure build upon an absolute foundation)
+ - Slide over this world a bit lightly and on the surface[^montaigne]
  - Pave the cow paths!
  - Break things down
  - Think in systems, make systems
- - Simple but not Simon ([inspired by Einstien, or somebedy](http://quoteinvestigator.com/2011/05/13/einstein-simple/))
+ - Simple but not Simon[^einstein]
  - Comic, not tragic
  - Try to avoid stepping on snails and anthills
  - Love but have intent
@@ -36,4 +36,10 @@ layout: default
 
 [^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - *Immanuel Kant, Grounding for the Metaphysics of Morals*
 
-[^woody]: Inspired by: ”The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
+[^woody]: ”The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
+
+[^pierce]: [Charles Sanders Peirce](http://a.co/b81camA)
+
+[^einstein]: inspired by [Einstein, or somebody](http://quoteinvestigator.com/2011/05/13/einstein-simple/)
+
+[^Montaigne]: [via Montaigne](http://amzn.to/1XDifrI)
