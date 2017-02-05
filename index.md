@@ -4,7 +4,7 @@ layout: default
 
 ## Guidelines
 
- - Pave the cow paths
+ - Pave the cow paths!
  - Truth as a cable, not a Chain (Peirce) - http://a.co/b81camA
  - Look for the Helpers (Fred Rodgers mom’s way of looking for hope in bad situations.)
  - Slide over this world a bit lightly and on the surface - [*via* Montaigne](http://amzn.to/1XDifrI)
