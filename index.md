@@ -42,4 +42,4 @@ layout: default
 
 [^einstein]: inspired by [Einstein, or somebody](http://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
-[^Montaigne]: [via Montaigne](http://amzn.to/1XDifrI)
+[^montaigne]: [via Montaigne](http://amzn.to/1XDifrI)
