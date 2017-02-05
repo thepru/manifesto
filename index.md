@@ -14,7 +14,7 @@ layout: default
  - Simple but not Simon
  - Draw to Think
  - Keep the Hope Machine Running[^woody]
- - Be comic not tragic
+ - Be comic, not tragic
  - Modular not monolithic
  - Try to avoid stepping on snails or anthills
  - Love but have intent
