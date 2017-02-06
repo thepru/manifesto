@@ -9,7 +9,7 @@ layout: default
  - Keep the Hope Machine Running[^woody]
  - Modular, not monolithic
  - Don’t treat people as means to an end, but rather treat them as ends unto themselves[^kant]
- - Truth should be seen more as a cable, not a chain[^pierce] (or a super-structure build upon an absolute foundation)
+ - Truth should be seen more as a cable, not a chain[^pierce]
  - Slide over this world a bit lightly and on the surface[^montaigne]
  - Pave the cow paths!
  - Break things down
