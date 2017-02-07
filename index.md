@@ -36,10 +36,10 @@ layout: default
 
 [^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - *Immanuel Kant, Grounding for the Metaphysics of Morals*
 
-[^woody]: ”The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
+[^woody]: "The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
 
-[^pierce]: [Charles Sanders Peirce](http://a.co/b81camA)
+[^pierce]: via [Charles Sanders Peirce](http://a.co/b81camA)
 
-[^einstein]: inspired by [Einstein, or somebody](http://quoteinvestigator.com/2011/05/13/einstein-simple/)
+[^einstein]: Inspired by [Einstein, or somebody](http://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
-[^montaigne]: [via Montaigne](http://amzn.to/1XDifrI)
+[^montaigne]: via [Montaigne](http://amzn.to/1XDifrI)
