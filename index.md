@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Helpful Guidelines
-
  - Draw to Think
  - Look for the Helpers[^helpers]
  - Keep the Hope Machine Running[^woody]
@@ -22,7 +20,7 @@ layout: default
  - Be vulnerable: ask questions. Set aside pride.
  - In life, as in watchmaking, things added are complications
 
-### Ideas, Theories, a Pile
+## Ideas, Theories, a Pile
 
  - Be as axiomatic as possible, but keep nuance from dying out
  - Be conservative in what you do, be liberal in what you accept from others [or Postel's Law via Jon Postel](https://en.wikipedia.org/wiki/Robustness_principle)
@@ -32,7 +30,7 @@ layout: default
 
 ***
 
-#### Footnotes
+### Notes:
 
 [^helpers]: "When I was a boy and I would see scary things in the news, my mother would say to me: Look for the helpers. You will always find people who are helping." - *Mister Rogers*
 
