@@ -20,6 +20,7 @@ layout: default
  - Don’t treat people as means to an end, but rather treat them as ends unto themselves[^kant]
  - In life, as in watchmaking, things added are complications
  - Be conservative in what you do, be liberal in what you accept from others[^postel]
+ - Thomas Paine: “I have always strenuously supported the right of every man to his own opinion, however different that opinion might be to mine. He who denies to another this right, makes a slave of himself to his present opinion, because he precludes himself the right of changing it.”
 
 ## Ideas, Theories, a Pile
 
