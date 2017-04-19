@@ -2,12 +2,12 @@
 layout: default
 ---
 
- - Draw to Think
+ - {==Draw to Think==}{>> :) <<}
  - Look for the Helpers[^helpers]
  - Keep the Hope Machine Running[^woody]
- - Modular, not monolithic
+ - Modular, not monolithic {>>a comment<<}
  - Truth should be seen more as a cable, not a chain[^pierce]
- - Slide over this world a bit lightly and on the surface[^montaigne]
+ - {==Slide over this world a bit lightly==}{>>  <<} and on the surface[^montaigne]
  - Pave the cow paths!
  - Break things down
  - Think in systems, make systems
@@ -36,9 +36,9 @@ layout: default
 
 [^helpers]: "When I was a boy and I would see scary things in the news, my mother would say to me: Look for the helpers. You will always find people who are helping." - *Mister Rogers*
 
-[^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end" - *Immanuel Kant, Grounding for the Metaphysics of Morals*
+[^kant]: "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same {--time as an end--}" - *Immanuel Kant, Grounding for the Metaphysics of Morals*
 
-[^woody]: "The note of hope is the only note that can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
+[^woody]: "The note of hope is the only note {~~that~>that~~} can help us or save us from falling to the bottom of the heap of evolution, because, largely, about all a human being is, anyway, is just a hoping machine." - *Woody Guthrie, Pastures of Plenty (pg. 247)*
 
 [^pierce]: via [Charles Sanders Peirce](http://a.co/b81camA)
 
