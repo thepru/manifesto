@@ -5,6 +5,7 @@ layout: default
  - Draw to Think
  - Look for the Helpers[^helpers]
  - Keep the Hope Machine Running[^woody]
+ 	 - (Hope is a Discipline)
  - Modular, not monolithic
  - Truth should be seen more as a cable, not a chain[^pierce]
  - Slide over this world a bit lightly and on the surface[^montaigne]
