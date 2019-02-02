@@ -5,7 +5,7 @@ layout: default
  - Draw to Think
  - Look for the Helpers[^helpers]
  - Keep the Hope Machine Running[^woody]
-	 - (Hope is a Discipline)
+    - (Hope is a Discipline)
  - Modular, not monolithic
  - Truth should be seen more as a cable, not a chain[^pierce]
  - Slide over this world a bit lightly and on the surface[^montaigne]
@@ -18,6 +18,7 @@ layout: default
  - Love but have intent
  - You only have control over your reactions
  - Be vulnerable: Ask questions; set aside pride.
+ - Face things, or be content with the way that they are[^face]
  - Don’t treat people as means to an end, but rather treat them as ends unto themselves[^kant]
  - In life, as in watchmaking, things added are complications
  - Be conservative in what you do, be liberal in what you accept from others[^postel]
@@ -34,6 +35,8 @@ layout: default
 ***
 
 ### Notes:
+
+[^face]: "Not everything that is faced can be changed, but nothing can be changed until it is faced." - *James Baldwin*
 
 [^helpers]: "When I was a boy and I would see scary things in the news, my mother would say to me: Look for the helpers. You will always find people who are helping." - *Mister Rogers*
 
