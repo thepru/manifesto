@@ -1,7 +1,7 @@
 # Site settings
 title: Manifesto
 tag_text: Manifesto
-description: Manifest for thepru
+description: Manifesto of thepru
 
 # Build settings
 markdown: kramdown
